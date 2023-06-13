@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="114.26236mm"
+   height="55.241989mm"
+   viewBox="0 0 114.26236 55.241989"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="speed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="313.87991"
+     inkscape:cy="228.09494"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.882507,-88.349334)">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#418500;stroke-width:0.465;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1745"
+       width="114.73316"
+       height="55.751675"
+       x="22.162161"
+       y="88.355431" />
+    <ellipse
+       style="fill:#f4f6f6;fill-opacity:1;stroke:#418500;stroke-width:2.065;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:1"
+       id="path846"
+       cx="49.731525"
+       cy="115.02648"
+       rx="16.771845"
+       ry="15.682611"
+       inkscape:export-filename="/home/hu-mka/speed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#f4f6f6;fill-opacity:1;stroke:#418500;stroke-width:2.065;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:1"
+       id="path846-8"
+       cx="118.34052"
+       cy="126.87621"
+       rx="16.771845"
+       ry="15.682611"
+       inkscape:export-filename="/home/hu-mka/speed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.734789,114.4033 74.461192,89.662631 84.659704,118.22548 105.84269,95.513735 117.70715,127.49331"
+       id="path1224"
+       inkscape:export-filename="/home/hu-mka/speed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 41.088058,96.662927 -7.093778,3.109693 -3.525015,5.975"
+       id="path1259"
+       inkscape:export-filename="/home/hu-mka/speed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.787677,95.423012 -7.093778,3.109693 -3.525015,5.975005"
+       id="path1259-6"
+       inkscape:export-filename="/home/hu-mka/speed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
