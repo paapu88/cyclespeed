@@ -1,5 +1,6 @@
 [app]
 
+
 # (str) Title of your application
 title = Cycle Speed
 
@@ -7,7 +8,7 @@ title = Cycle Speed
 package.name = cyclespeed
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.paapu
+package.domain = org.paapu88
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -29,7 +30,7 @@ source.include_exts = py,png,jpg,kv,atlas
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.1
+version = 0.2
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]

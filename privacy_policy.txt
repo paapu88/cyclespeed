@@ -1,4 +1,15 @@
-This application does not collect or store personal data.
+# Privacy Policy
 
-If you installed this application from Google Play, then Google Play does collect some personal data.
-Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+Your privacy is important to us. This app does not collect, store, or share any personal information.
+
+## Data Collection
+
+This app does not collect any user data.
+
+## Permissions
+
+The app may request permissions such as location or storage access to provide core functionality, but no data is stored or transmitted externally.
+
+## Contact
+
+If you have any questions or concerns, contact us at: markus.kaukonen@student.hanken.fi
